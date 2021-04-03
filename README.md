@@ -1,2 +1,2 @@
 # cuteWebsite
-This is another my cute website
+This is my another cute website
