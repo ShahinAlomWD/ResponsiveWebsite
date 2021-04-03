@@ -451,7 +451,7 @@ footer{
     .toggle{
         width: 40px;
         height: 40px;
-        background: url(image/menu.png);
+        background: url(menu.png);
         background-repeat: no-repeat;
         background-size: 30px;
         background-position: right;
@@ -463,7 +463,7 @@ footer{
     .toggle.active{
         width: 40px;
         height: 40px;
-        background: url(image/close.png);
+        background: url(close.png);
         background-repeat: no-repeat;
         background-size: 25px;
         background-position: right;
